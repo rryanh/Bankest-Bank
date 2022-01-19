@@ -25,9 +25,9 @@
     <br />
     <a href="https://bankist-bank-project-ryan.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/rryanh/Bankist-Bank-App/issues">Report Bug</a>
+    <a href="https://github.com/rryanh/Bankist-Bank/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rryanh/Bankist-Bank-App/issues">Request Feature</a>
+    <a href="https://github.com/rryanh/Bankist-Bank/issues">Request Feature</a>
   </p>
 </div>
 
